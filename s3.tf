@@ -32,6 +32,4 @@ key = "prod/terraform.tfstate"
 }
 }
 
-This is terraform code
-we are using jenkins cron tab
 
